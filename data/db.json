@@ -1,0 +1,87 @@
+{
+    "polls": [
+        {
+            "id": "2",
+            "title": "Year 5 Category 3",
+            "options": [
+                "Movies that YOU think are sexy",
+                "A movie you are pretty sure you've seen but don't remember anything about",
+                "Animated Films",
+                "Movies pre 1970",
+                "Movie musicals (that were movies before ever being on stage, or have never been adapted to stage)",
+                "Cine2Nerdle"
+            ]
+        },
+        {
+            "id": "1",
+            "title": "Year 5 Category 2",
+            "options": [
+                "Besties - Movies featuring a pair of best friends",
+                "Movies with an actor using a different accent than the one they are known for",
+                "Movies where the setting is a main character ( movies with a strong sense of place)",
+                "Actor Turned Director - Actors who used their star power to get in the director's chair",
+                "Short films",
+                "Historic (citation needed): Historical epics of questionable realism"
+            ]
+        }
+    ],
+    "ballots": [
+        {
+            "id": "10",
+            "poll": "1",
+            "votes": [
+                "Besties - Movies featuring a pair of best friends",
+                "Movies with an actor using a different accent than the one they are known for",
+                "Movies where the setting is a main character ( movies with a strong sense of place)",
+                "Actor Turned Director - Actors who used their star power to get in the director's chair",
+                "Short films",
+                "Historic (citation needed): Historical epics of questionable realism"
+            ]
+        },
+        {
+            "id": "1",
+            "poll": "2",
+            "votes": [
+                "Movies that YOU think are sexy",
+                "A movie you are pretty sure you've seen but don't remember anything about",
+                "Animated Films",
+                "Movies pre 1970",
+                "Movie musicals (that were movies before ever being on stage, or have never been adapted to stage)",
+                "Cine2Nerdle"
+            ]
+        },
+        {
+            "id": "2",
+            "poll": "2",
+            "votes": [
+                "A movie you are pretty sure you've seen but don't remember anything about",
+                "Animated Films",
+                "Movies pre 1970",
+                "Movie musicals (that were movies before ever being on stage, or have never been adapted to stage)",
+                "Cine2Nerdle",
+                "Movies that YOU think are sexy"
+            ]
+        },
+        {
+            "id": "3",
+            "poll": "2",
+            "votes": [
+                "Animated Films",
+                "Movie musicals (that were movies before ever being on stage, or have never been adapted to stage)",
+                "Cine2Nerdle",
+                "Movies that YOU think are sexy",
+                "Movies pre 1970",
+                "A movie you are pretty sure you've seen but don't remember anything about"
+            ]
+        },
+        {
+            "id": "4",
+            "poll": "2",
+            "votes": [
+                "Movies that YOU think are sexy",
+                "Movies pre 1970",
+                "A movie you are pretty sure you've seen but don't remember anything about"
+            ]
+        }
+    ]
+}
